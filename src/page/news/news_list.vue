@@ -1,6 +1,5 @@
-import Vue from 'vue'
 <template id="new_list">
-    <div class="news_list">
+    <div class="news_list" style="background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535210526957&di=23a5d2cfb9d4bff2948e84c39770f275&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fback_pic%2Fqk%2Fback_origin_pic%2F00%2F03%2F83%2Fcd0da56e1a20a1a5cd1ddcf0b0c7981a.jpg')">
         <li v-for="i in list">
             <router-link :to="{path:'/news_content',query:{url:i.URL,title:i.title}}">
             <div class="tabel-view">
@@ -29,11 +28,14 @@ import Vue from 'vue'
         },
         created() {
             this.get_list();
-            window.addEventListener('scroll',this.scroll_button)
+            addEventListener('scroll',this.scroll_button);
             //setInterval(this.json_appen,2000);
         },
         mounted () {
 
+        },
+        destroyed:function () {
+            removeEventListener("scroll",this.scroll_button(),true);
         },
         methods: {
             get_list() {
@@ -53,7 +55,6 @@ import Vue from 'vue'
                     jsonp: 'callBackParam',
                     jsonpCallback: "callbackFunction"
                 }).then(function (res) {
-                    //$.extend( true,this.list,res.body.result.data.list);
                     for(var i=0;i<res.body.result.data['list'].length;i++)
                     {
                         this.list.push(res.body.result.data['list'][i]);
@@ -61,11 +62,8 @@ import Vue from 'vue'
                     this.page=this.page+1;
                 }.bind(this));
             },
-            test1(){
-                alert("ok");
-            },
             scroll_button() {
-                if ($(document).scrollTop() >= $(document).height() - $(window).height()) {
+                if ($(document).scrollTop()+100>= $(document).height() - $(window).height()) {
                     this.$options.methods.json_appen.bind(this)();
                 }
             },
@@ -76,6 +74,7 @@ import Vue from 'vue'
                     dataType: "jsonp",
                     jsonpCallback: "callbackFunction",
                     success: function (json) {
+                        alert($(document).height()+$(document).height()+$(window).height())
                         //console.log(json);
                         //console.log(this.list);
                     }
@@ -101,7 +100,13 @@ import Vue from 'vue'
     margin-top: 3px;
     border-radius: 12px;
     position: relative;
+    animation: show1 0.5s ease-in normal;
     }
+@keyframes show1 {
+    0%{opacity: 0.4}
+    50%{opacity: 0.8}
+    100%{opacity:1}
+}
 .tabel-view{
     width:100%;
     height: 100%;

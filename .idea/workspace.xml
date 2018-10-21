@@ -1,549 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66fda679-3123-4842-89a8-bdbb8b60294e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webpack.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/build.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dev.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/xc-cli.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/Gruntfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/dist/css/mui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/dist/css/mui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/dist/fonts/mui.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/dist/js/mui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/dist/js/mui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/app.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/feedback.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/icons-extra.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.dtpicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.imageviewer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.indexedlist.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.listpicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.picker.all.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.picker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.picker.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/css/mui.poppicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/accordion.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/actionsheet-plus.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/actionsheet.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/ad.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/ajax.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/badges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/beecloud.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/best-practices/list-to-detail/detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/best-practices/list-to-detail/list-to-detail.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/best-practices/list-to-detail/listview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/best-practices/list-to-detail/vue.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/buttons-with-badges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/buttons-with-block.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/buttons-with-icons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/buttons-with-loading.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/buttons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/card.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/checkbox.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/clouddb_wilddog.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/date.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/dialog.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/dtpicker.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/echarts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/feedback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/grid-default.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/grid-pagination.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/guide.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/icons-extra.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/icons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/im-chat.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/imageviewer-native.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/imageviewer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/indexed-list-select.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/indexed-list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/input.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/lazyload-image.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/list-triplex-row.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/list-with-input.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/locker-dom.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/media-list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/message-bottom.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/modals.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/nav-nativeObj.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/nav.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/nav_transparent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/nav_transparent_native.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/numbox.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-down.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-left-plus-main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-left-plus-menu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-left.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-right-plus-main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-right-plus-menu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/offcanvas-drag-right.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/pagination.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/picker.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/popovers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/progressbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/pullrefresh.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/pullrefresh_main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/pullrefresh_sub.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/pullrefresh_with_tab.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/radio.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/range.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/setting.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/slider-default.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/slider-native.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/slider-table-default.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/slider-table-pagination.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/slider-with-title.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/switches.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-top-subpage-1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-top-subpage-2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-top-subpage-3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-top-subpage-4.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-top-subpage-5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-top-webview-main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-vertical-scroll.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-webview-main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-webview-subpage-about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-webview-subpage-chat.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-webview-subpage-contact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-webview-subpage-setting.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-with-segmented-control-vertical.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-with-segmented-control.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tab-with-viewpagerindicator.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tabbar-labels-only.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tabbar-with-submenus.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tabbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tableviews-with-badges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tableviews-with-collapses.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tableviews-with-swipe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/tableviews.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/examples/typography.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/fonts/mui-icons-extra.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/fonts/mui.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/60x60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/cbd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/login-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/muwu.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/qrcode.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/shuijiao.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/images/yuantiao.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/index-menu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/95516.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/arttmpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/beecloud.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/city.data-3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/city.data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/feedback.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.dtpicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.imageViewer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.indexedlist.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.lazyload.img.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.lazyload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.listpicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.locker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.picker.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.picker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.picker.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.poppicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.previewimage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.pullToRefresh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.pullToRefresh.material.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.view.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/mui.zoom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/update.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/js/webviewGroup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/libs/echarts-all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/hello-mui/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/css/feedback-page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/css/mui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/fonts/mui.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/forget_password.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/images/iconfont-tianjia.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/images/qihoo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/images/qq.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/images/sinaweibo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/images/user-photo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/images/weixin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/feedback-page.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/feedback.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/mui.enterfocus.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/mui.locker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/mui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/js/mui.view.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/libs/easymob-webim-sdk/easemob.im-1.0.5.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/libs/easymob-webim-sdk/jquery-1.11.1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/libs/easymob-webim-sdk/json2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/libs/easymob-webim-sdk/quickstart.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/libs/easymob-webim-sdk/strophe-custom-2.0.0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/reg.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/setting.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/login/unlock.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/css/mui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/css/mui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/fonts/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/fonts/mui.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/html/new-webview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/html/tab-webview-subpage-chat.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/html/tab-webview-subpage-contact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/images/60x60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/images/ma.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/js/mui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/js/mui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/js/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/unpackage/.confirmed_dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/examples/nativeTab/unpackage/.dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/fonts/mui.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/grunt/mui-namespace-generator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/actions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/ajax.plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/input.plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/modals.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.active.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.ajax.5+.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.ajax.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.animation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.animationframe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.back.5+.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.back.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.class.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.class.scroll.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.class.scroll.pullrefresh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.class.scroll.slider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.detect.5+.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.detect.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.dialog.alert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.dialog.confirm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.dialog.prompt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.dialog.toast.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.event.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.fixed.animation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.fixed.bind.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.fixed.classlist.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.fixed.fastclick.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.fixed.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.fixed.keyboard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.drag.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.flick.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.hold.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.longtap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.pinch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.swipe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.gestures.tap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.init.5+.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.init.pullrefresh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.jsonp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.layout.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.namespace.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.number.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.offcanvas.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.popup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.progressbar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.pullrefresh.5+.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.pullrefresh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.target.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/mui.transparent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/popovers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/segmented-controllers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/sliders.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/switches.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/js/tableviews.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/mui_snippets.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/css/mui.dtpicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/css/mui.picker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/css/mui.poppicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/dist/css/mui.picker.all.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/dist/css/mui.picker.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/dist/js/mui.picker.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/dist/js/mui.picker.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/js/mui.dtpicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/js/mui.picker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/js/mui.poppicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/picker/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/plugin/share/plusShare.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/badges.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/bars.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/cards.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/fullscreen.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/hack.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/icon.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/iframe.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/iscroll.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/loadings.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/modals.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/mui.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/normalize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/number.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/off-canvas.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/os.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/popovers.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/popup.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/progressbar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/pullrefreshs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/push.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/scroll.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/segmented-controls.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/slider-cell.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/sliders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/switches.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/table-views.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/toast.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/type.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/sass/variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/template/feedback/css/feedback.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/template/feedback/feedback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/template/feedback/js/feedback.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mui-master/template/feedback/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/postcss.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/App.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/js/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/page/home/home.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/page/home/login.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/page/home/register.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/page/news/news_content.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/page/news/news_list.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/router/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/icon" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/mui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/mui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/static.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/demo_fontclass.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/demo_symbol.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/demo_unicode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/iconfont.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/iconfont.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font-icon/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/fonts/mui.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_133.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_135.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_137.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_187.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_199.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_203.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_205.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_207.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_249.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_251.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_253.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_267.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_277.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_279.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_317.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_321.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_333.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_335.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_337.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_343.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_345.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_347.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_349.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_387.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_389.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_391.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_393.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_399.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_401.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_403.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_405.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_409.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_415.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/1_417.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/QRcode.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/alert.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/alert2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/alipay.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/back.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/button.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/change.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/circle.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/clock.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/close.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/core.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/core2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/delete.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/diamond.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/diamond1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/edit.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/edit1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/error.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/exchange.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/five_star.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/gif2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/gift.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/gift1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/home.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/invisable.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/left.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/load.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/loadding.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/location.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/location2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/lock.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/love.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/menu.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/message.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/money.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/money2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/ok (2).gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/ok.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/ok2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/payOK.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/phone.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/play.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/plus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/plus1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/question.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/question2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/reload.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/right.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/search.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/shop_car.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/star.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/store.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/sub.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/tele.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/time.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/tool.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/tool2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/top.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/top1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/top2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/user.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/v1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/v2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/v3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/visable.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/wechat.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/write.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon/yuan.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/money.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/sim卡.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/wifi.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/一般兑换.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/一般提示.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/上传.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/上箭头.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/下箭头.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/二维码.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/余量 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/余量.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/保护伞.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/停用.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/兑换.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/关闭 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/关闭.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/分享 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/分享.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/删除.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/刷新.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/券 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/券 (2).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/券.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/右箭头.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/固话 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/固话.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/地标 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/地标.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/多方通话 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/多方通话.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/安全.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/对勾 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/对勾.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/小关闭.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/开心.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/快递运输.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/手机充值.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/扫码 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/扫码.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/搜索.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/文件夹 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/文件夹.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/汽车.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/灯泡 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/灯泡.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/爱心.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/用户.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/电脑.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/皇冠.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/短信.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/礼品.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/红包.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/绑定.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/编辑 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/编辑.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/群 (1).svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/群.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/记录.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/设置.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/购物商城.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/购物车.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/转赠流量.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/通讯录.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/重要提示.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/钻石.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/首页.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/icon1/首页.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/j-js.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/mui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/mui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/logo/logo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
-    </list>
+    <list default="true" id="66fda679-3123-4842-89a8-bdbb8b60294e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -556,42 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <file leaf-file-name="chat.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/page/chat/chat.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="989">
-              <caret line="43" column="15" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/home/login.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="460">
+              <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#li#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -599,18 +30,43 @@
       <file leaf-file-name="home.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/page/home/home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="23">
+              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/home/register.vue">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="406">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#582#623#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news_content.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/news/news_content.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4140">
+              <caret line="180" column="54" lean-forward="false" selection-start-line="180" selection-start-column="54" selection-end-line="180" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login1.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/user/login1.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2553">
+              <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -620,43 +76,37 @@
         <entry file="file://$PROJECT_DIR$/src/page/news/news_list.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <file leaf-file-name="websocket.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/websocket.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="437">
+              <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="news_content.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/news/news_content.vue">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-658">
-              <caret line="95" column="43" lean-forward="true" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#span#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#span#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#span#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="368">
+              <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/static.css">
+      <file leaf-file-name="mail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5014">
-              <caret line="218" column="14" lean-forward="false" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
+            <state relative-caret-position="322">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -667,12 +117,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>111.30.101.206</find>
+      <find>scroll_button()</find>
+      <find>111.230.101.206</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>39.108.236.127</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -685,19 +145,36 @@
         <option value="$PROJECT_DIR$/src/page/home/test.vue" />
         <option value="$PROJECT_DIR$/src/js/login.js" />
         <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/register.vue" />
-        <option value="$PROJECT_DIR$/src/page/home/login.vue" />
-        <option value="$PROJECT_DIR$/src/App.vue" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/build/webpack.prod.conf.js" />
         <option value="$PROJECT_DIR$/src/page/home/register.vue" />
-        <option value="$PROJECT_DIR$/src/page/home/home.vue" />
-        <option value="$PROJECT_DIR$/src/router/index.js" />
-        <option value="$PROJECT_DIR$/static/js/j-js.js" />
-        <option value="$PROJECT_DIR$/src/page/news/news_list.vue" />
+        <option value="$PROJECT_DIR$/src/page/home/login.vue" />
+        <option value="$PROJECT_DIR$/src/store/index.js" />
+        <option value="$PROJECT_DIR$/src/page/user/login.vue" />
+        <option value="$PROJECT_DIR$/src/global_data.vue" />
+        <option value="$PROJECT_DIR$/src/page/data/global_data.vue" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/mail.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/common.vue" />
         <option value="$PROJECT_DIR$/static/css/static.css" />
+        <option value="$PROJECT_DIR$/src/page/news/INDEX.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/static/js/websocket.js" />
+        <option value="$PROJECT_DIR$/static/js/j-js.js" />
+        <option value="$PROJECT_DIR$/src/page/home/home.vue" />
+        <option value="$PROJECT_DIR$/src/js/common.js" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/page/user/personal_space.vue" />
+        <option value="$PROJECT_DIR$/src/page/user/register.vue" />
+        <option value="$PROJECT_DIR$/src/page/user/user.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/src/page/news/news_content.vue" />
+        <option value="$PROJECT_DIR$/src/page/user/login1.vue" />
+        <option value="$PROJECT_DIR$/src/page/chat/chat.vue" />
+        <option value="$PROJECT_DIR$/src/page/news/news_list.vue" />
       </list>
     </option>
   </component>
@@ -713,9 +190,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="489" />
-    <option name="y" value="29" />
-    <option name="width" value="1107" />
+    <option name="x" value="-1" />
+    <option name="y" value="3" />
+    <option name="width" value="1005" />
     <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -734,58 +211,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-master" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-master" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -794,7 +253,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -816,6 +274,14 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="j-js.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="j-js.js" working-dir="$PROJECT_DIR$/static/js" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.j-js.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -870,25 +336,72 @@
       <workItem from="1534245786992" duration="42000" />
       <workItem from="1534247126635" duration="10102000" />
       <workItem from="1534295272850" duration="5840000" />
+      <workItem from="1535014533575" duration="1493000" />
+      <workItem from="1535016068943" duration="983000" />
+      <workItem from="1535017082401" duration="2173000" />
+      <workItem from="1535019628205" duration="11182000" />
+      <workItem from="1535105738047" duration="897000" />
+      <workItem from="1535184349486" duration="6175000" />
+      <workItem from="1535199883464" duration="3826000" />
+      <workItem from="1535273741848" duration="14785000" />
+      <workItem from="1535334607177" duration="12666000" />
+      <workItem from="1535361275633" duration="13685000" />
+      <workItem from="1535426716681" duration="7170000" />
+      <workItem from="1535451592867" duration="10836000" />
+      <workItem from="1535729316506" duration="1450000" />
+      <workItem from="1535799042508" duration="7415000" />
+      <workItem from="1535853564741" duration="1601000" />
+      <workItem from="1535894903361" duration="2301000" />
+      <workItem from="1535971207728" duration="908000" />
+      <workItem from="1536027825997" duration="1762000" />
+      <workItem from="1536029714871" duration="1000" />
+      <workItem from="1536029772981" duration="2582000" />
+      <workItem from="1536147418080" duration="3973000" />
+      <workItem from="1536201284827" duration="5975000" />
+      <workItem from="1536387628273" duration="919000" />
+      <workItem from="1536389643707" duration="157000" />
+      <workItem from="1536390713949" duration="13247000" />
+      <workItem from="1536417930905" duration="1499000" />
+      <workItem from="1536460938903" duration="3419000" />
+      <workItem from="1536479921501" duration="13213000" />
+      <workItem from="1536547486672" duration="2230000" />
+      <workItem from="1536575954632" duration="602000" />
+      <workItem from="1536668074613" duration="6759000" />
+      <workItem from="1536675711102" duration="164000" />
+      <workItem from="1536754085797" duration="2157000" />
+      <workItem from="1536843156246" duration="3070000" />
+      <workItem from="1536916689056" duration="3573000" />
+      <workItem from="1536925507271" duration="10923000" />
+      <workItem from="1536987213637" duration="5562000" />
+      <workItem from="1537797570270" duration="3259000" />
+      <workItem from="1537842796148" duration="3167000" />
+      <workItem from="1538799102634" duration="2923000" />
+      <workItem from="1539159331354" duration="5627000" />
+      <workItem from="1539428322175" duration="1517000" />
+      <workItem from="1539432951319" duration="4794000" />
+      <workItem from="1539493977572" duration="7637000" />
+      <workItem from="1539606185230" duration="2437000" />
+      <workItem from="1540017179328" duration="21662000" />
+      <workItem from="1540092209804" duration="2968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277302000" />
+    <option name="totallyTimeSpent" value="514626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13002114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14904863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2774632" sideWeight="0.5406977" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18686296" sideWeight="0.63213533" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.49788582" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2774632" sideWeight="0.45930234" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18686296" sideWeight="0.3678647" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -896,7 +409,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32819906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -928,135 +441,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/login.vue" />
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/login.vue" />
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/register.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/xc-cli.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -1065,18 +454,74 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/store/register.vue" />
-    <entry file="file://$PROJECT_DIR$/src/page/home/login.vue">
+    <entry file="file://$PROJECT_DIR$/src/page/home/login.vue" />
+    <entry file="file://$PROJECT_DIR$/src/page/home/test.vue" />
+    <entry file="file://$PROJECT_DIR$/postcss.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/test.vue" />
+    <entry file="file://$PROJECT_DIR$/src/login.vue" />
+    <entry file="file://$PROJECT_DIR$/src/register.vue" />
+    <entry file="file://$PROJECT_DIR$/src/js/login.js" />
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/static/logo/logo.jpg" />
     <entry file="file://$PROJECT_DIR$/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1081">
+          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/webpack/src/page/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="246" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/js/vendor.js" />
+    <entry file="file://$PROJECT_DIR$/src/page/home/login.vue" />
+    <entry file="file://$PROJECT_DIR$/src/page/home/register.vue" />
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1085,91 +530,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2829">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1426">
-          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/postcss.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/mui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/login.vue" />
-    <entry file="file://$PROJECT_DIR$/src/register.vue" />
-    <entry file="file://$PROJECT_DIR$/src/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1357">
-          <caret line="59" column="5" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="59" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/logo/logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/j-js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/user/login.vue" />
     <entry file="file://$PROJECT_DIR$/static/css/mui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -1177,58 +538,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/global_data.vue" />
+    <entry file="file://$PROJECT_DIR$/src/page/data/global_data.vue" />
+    <entry file="file://$PROJECT_DIR$/src/common.vue" />
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/public/static/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="15" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        <state relative-caret-position="1058">
+          <caret line="1" column="45636" lean-forward="false" selection-start-line="1" selection-start-column="45636" selection-end-line="1" selection-end-column="45636" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/static.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5014">
-          <caret line="218" column="14" lean-forward="false" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
+        <state relative-caret-position="6670">
+          <caret line="290" column="1" lean-forward="false" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/news/INDEX.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="171" lean-forward="false" selection-start-line="0" selection-start-column="171" selection-end-line="0" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/user/personal_space.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="174" column="55" lean-forward="false" selection-start-line="174" selection-start-column="55" selection-end-line="174" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/login.vue">
+    <entry file="file://$PROJECT_DIR$/src/page/user/register.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="1364">
+          <caret line="69" column="43" lean-forward="false" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/user/user.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#li#0;n#div#0;n#div#0;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#router-link#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#router-link#1;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="288">
+          <caret line="64" column="22" lean-forward="false" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/home.vue">
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="35">
+          <caret line="40" column="120" lean-forward="false" selection-start-line="40" selection-start-column="120" selection-end-line="40" selection-end-column="120" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/home/register.vue">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="828">
+          <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/mui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192625">
+          <caret line="8379" column="42" lean-forward="false" selection-start-line="8379" selection-start-column="42" selection-end-line="8379" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/j-js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="87" column="5" lean-forward="false" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/websocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/news/news_content.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="180" column="54" lean-forward="false" selection-start-line="180" selection-start-column="54" selection-end-line="180" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/user/login1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2553">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1236,32 +695,65 @@
     <entry file="file://$PROJECT_DIR$/src/page/news/news_list.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/news/news_content.vue">
+    <entry file="file://$PROJECT_DIR$/src/page/home/home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-658">
-          <caret line="95" column="43" lean-forward="true" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
+        <state relative-caret-position="23">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_static.zip/static/js/manifest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#span#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#span#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#span#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#li#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="406">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#582#623#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/chat/chat.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#li#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

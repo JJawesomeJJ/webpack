@@ -6,13 +6,19 @@ Vue.use(Router);
 const home = r =>
   require.ensure([], () => r(require('../page/home/home')), ' home');
 const login = l =>
-    require.ensure([], () => l(require('../page/home/login')), ' login');
+    require.ensure([], () => l(require('../page/user/login1')), ' login');
 const register = k =>
-    require.ensure([], () => k(require('../page/home/register')), 'register');
+    require.ensure([], () => k(require('../page/user/register')), 'register');
 const news_list = j =>
     require.ensure([], () => j(require('../page/news/news_list')), 'news_list');
 const news_content = w =>
     require.ensure([], () => w(require('../page/news/news_content')), 'new_content');
+const user = i =>
+    require.ensure([], () => i(require('../page/user/user')), 'user');
+const personal_space= a =>
+    require.ensure([], () => a(require('../page/user/personal_space')), 'personal_space');
+const chat= c =>
+    require.ensure([], () => c(require('../page/chat/chat')), 'chat');
 export default new Router({
   routes: [
     {
@@ -43,6 +49,22 @@ export default new Router({
           path: '/news_content',
           name: 'news_content',
           component:news_content
+      },
+      {
+          path:'/user',
+          name:'user',
+          component:user
+      },
+      {
+          path:'/personal_space',
+          name:'personal_space',
+          component:personal_space
+      },
+      {
+          path:'/chat',
+          name:'chat',
+          component:chat
+
       }
 
   ]

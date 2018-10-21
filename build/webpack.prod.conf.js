@@ -31,9 +31,9 @@ const prodConf = merge(baseConf, {
     //html引用资源路径,可在此配置cdn引用地址！
     publicPath: prodConfig.publicPath,
     //文件名
-    filename: assetsPath("js/[name].[chunkhash].js"),
+    filename: assetsPath("js/[name].js"),
     //用于打包require.ensure(代码分割)方法中引入的模块
-    chunkFilename: assetsPath("js/[name].[chunkhash].js")
+    chunkFilename: assetsPath("js/[name].js")
   },
   //生成sourceMaps(方便调试)
   devtool: prodConfig.devtoolType,
@@ -64,7 +64,7 @@ const prodConf = merge(baseConf, {
   },
   plugins: [
     //每个chunk头部添加hey,xc-cli!
-    new webpack.BannerPlugin("hey,xc-cli"),
+    new webpack.BannerPlugin("jjawesome"),
 
     //压缩js
     new webpack.optimize.UglifyJsPlugin({
@@ -77,7 +77,7 @@ const prodConf = merge(baseConf, {
     //分离入口引用的css,不内嵌到js bundle中!
 
     new ExtractTextPlugin({
-      filename: assetsPath("css/[name].[contenthash].css"),
+      filename: assetsPath("css/[name].css"),
       allChunks: false
     }),
 
